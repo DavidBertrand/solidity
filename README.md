@@ -1,2 +1,2 @@
-# solidiy
-Project used to practice Smart Conracrts
+# solidity
+Project used to practice Smart Contracts
